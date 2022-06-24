@@ -1,7 +1,7 @@
 ## Welcome!
 ### 👋😄 I'm Marcelo and I'm happy to have you here!!
 
-.NET Software Dev | .NET Software Architect | .NET Software Engineer | System Analyst | Teacher & Career Mentor
+.NET Software Dev | .NET Software Architect | Software Engineer | System Analyst | Teacher & Career Mentor
 
 ![Visits](https://visitor-badge.glitch.me/badge?page_id=MarceloNascimento)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MarceloNascimento/badges/)
