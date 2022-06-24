@@ -5,7 +5,7 @@ Specialist in Distribuited System Architect, .NET Software Engineer, Teacher & C
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNascimento&layout=compact&langs_count=6&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloNascimento&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  ![Visitas](https://visitor-badge.glitch.me/badge?page_id=MarceloNascimento) 
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MarceloNascimento&theme=gothan)](https://github.com/MarceloNascimento/github-readme-stats)  
 </div>
 
 <!--
