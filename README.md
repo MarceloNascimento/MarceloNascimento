@@ -10,6 +10,7 @@
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNascimento&layout=compact&langs_count=6&theme=github_dark"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarceloNascimento&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>  
+  [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 </div>
 
 <!--
