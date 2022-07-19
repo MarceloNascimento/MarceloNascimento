@@ -4,9 +4,9 @@
 .NET Software Dev | .NET Software Architect | Software Engineer | System Analyst | Teacher & Career Mentor
 
 ![Visits](https://visitor-badge.glitch.me/badge?page_id=MarceloNascimento)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MarceloNascimento/badges/)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 ## Analysis
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloNascimento&layout=compact&langs_count=6&theme=github_dark"/>
