@@ -3,7 +3,7 @@
 
 .NET Software Dev | .NET Software Architect | Software Engineer | System Analyst | Teacher & Career Mentor
 
-![Visits](https://visitor-badge.glitch.me/badge?page_id=MarceloNascimento)
+<!--- ![Visits](https://visitor-badge.glitch.me/badge?page_id=MarceloNascimento) -->
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MarceloNascimento/badges/)
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
