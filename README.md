@@ -1,6 +1,3 @@
-
-### Software Architect · Distributed Systems · Observability · Cloud & AI-Augmented Engineering  
-
 ## Welcome, to my GitHub!
 ### 👋😄 I'm Marcelo and I'm happy to have you here!!
 > Engineering systems with **clarity, scale, and purpose**.
