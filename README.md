@@ -16,9 +16,7 @@ Here you will find:
 - AI-augmented workflows
 - Pragmatic, battle-tested solutions
 
-
 ---
-
 ## 🧠 Engineering Philosophy
 
 - ✅ Scalability is not optional  
@@ -75,10 +73,6 @@ I design systems that are:
 - ✅ Production-oriented engineering labs
 
 ---
-
-> **"Distributed systems demand clarity.  
-Observability demands discipline.  
-Engineering demands responsibility."**
 
 > *“Build systems that explain themselves.”*
 
