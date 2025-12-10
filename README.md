@@ -1,7 +1,8 @@
 ## Welcome, to my GitHub!
 ### 👋😄 I'm Marcelo and I'm happy to have you here!!
+
+### · Software Architect · Software Engineer · Distributed Systems · Observability · Cloud & AI-Augmented Engineering  
 > Engineering systems with **clarity, scale, and purpose**.
-**Senior Software Engineer | Software Architect | Distributed Systems | Observability | Clouds & AI-Augmented Engineering**
 
 This space reflects how I think, design, and build **real-world, scalable, observable, and resilient software systems**.
 
