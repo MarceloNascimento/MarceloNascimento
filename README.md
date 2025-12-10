@@ -30,7 +30,7 @@ Here you’ll find projects, experiments, and solutions focused on **scalability
 - Docker, Terraform, Jenkins, GitHub Actions
 
 **Observability**
-- New Relic, OpenTelemetry, Structured Logging
+- New Relic, Structured Logging
 
 **Architecture & Practices**
 - Clean Architecture, DDD, SOLID, KISS, YAGNI
