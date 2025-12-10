@@ -1,8 +1,11 @@
 ## Welcome, to my GitHub!
 ### 👋😄 I'm Marcelo and I'm happy to have you here!!
 
-### · Software Architect · Software Engineer · Distributed Systems · Observability · Cloud & AI-Augmented Engineering  
-> Engineering systems with **clarity, scale, and purpose**.
+[![Open Source](https://badgen.net/badge/Open%20Source/Yes/blue?icon=github)](https://github.com/MarceloNascimento)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+[![VS Code](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
+
+**Senior Software Engineer | Software Architect | Distributed Systems | Observability | Clouds & AI-Augmented Engineering**
 
 This space reflects how I think, design, and build **real-world, scalable, observable, and resilient software systems**.
 
@@ -12,6 +15,7 @@ Here you will find:
 - Observability-first engineering
 - AI-augmented workflows
 - Pragmatic, battle-tested solutions
+
 
 ---
 
@@ -57,14 +61,6 @@ I design systems that are:
 - Clean Architecture, DDD (light), SOLID
 - KISS, YAGNI, Separation of Concerns
 - Event-Driven Design, Microservices
-
----
-
-## 🌐 Open Source & Standards
-
-[![Open Source](https://badgen.net/badge/Open%20Source/Yes/blue?icon=github)](https://github.com/MarceloNascimento)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
-[![VS Code](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 ---
 
