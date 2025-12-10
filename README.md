@@ -15,6 +15,7 @@ Here you will find:
 - Observability-first engineering
 - AI-augmented workflows
 - Pragmatic, battle-tested solutions
+- and more than just words, I deliver real software.
 
 ---
 ## 🧠 Engineering Philosophy
