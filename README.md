@@ -36,9 +36,9 @@ I design systems that are:
 
 - 🌐 **Distributed Systems & Event-Driven Architecture**
 - ☁️ **Cloud Engineering (AWS-centric)**
-- 📈 **Observability (New Relic, OpenTelemetry)**
+- 📈 **Observability (New Relic, kibana and etc)**
 - 🧠 **AI-Augmented Software Engineering**
-- 🧪 **Automated Testing & Quality Gates**
+- 🧪 **Automated Testing, Quality Gates, Security Gates**
 - 🔁 **CI/CD & Infrastructure as Code**
 - 🎓 **Technical Leadership & Mentorship**
 
@@ -54,7 +54,7 @@ I design systems that are:
 - Docker, Terraform, Jenkins, GitHub Actions
 
 **Observability**
-- New Relic, OpenTelemetry, Structured Logging
+- New Relic, Structured Logging, metrics, traces
 
 **Architecture & Engineering Practices**
 - Clean Architecture, DDD (light), SOLID
