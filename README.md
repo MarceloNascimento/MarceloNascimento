@@ -1,19 +1,17 @@
 ## Welcome!
 ### 👋😄 I'm Marcelo and I'm happy to have you here!!
 
-.NET Software Dev | .NET Software Architect | Software Engineer | System Analyst | Teacher & Career Mentor
+Senior Software Engineer | Software Architect | Cloud & Distributed Systems | Teacher & Career Mentor
 
-<!--- ![Visits](https://visitor-badge.glitch.me/badge?page_id=MarceloNascimento) -->
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/MarceloNascimento/badges/)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-
- # 👋 Hi, I'm Marcelo Rocha
-
-Senior Software Engineer | Software Architect | Cloud & Distributed Systems | Mentor
-
+ 
 Welcome to my GitHub!  
 Here you’ll find projects, experiments, and solutions focused on **scalability, reliability, and real-world engineering problems**.
+
+## 🌍 Open Source & Standards
+
+[![Open Source](https://badgen.net/badge/Open%20Source/Yes/blue?icon=github)](https://github.com/MarceloNascimento)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+[![VS Code](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 ---
 
@@ -44,13 +42,6 @@ Here you’ll find projects, experiments, and solutions focused on **scalability
 - Clean Architecture, DDD, SOLID, KISS, YAGNI
 - Event-Driven Design, Microservices
 
----
-
-## 🌍 Open Source & Standards
-
-[![Open Source](https://badgen.net/badge/Open%20Source/Yes/blue?icon=github)](https://github.com/MarceloNascimento)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
-[![VS Code](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 
 ---
 
