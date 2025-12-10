@@ -50,13 +50,6 @@ Here you’ll find projects, experiments, and solutions focused on **scalability
 
 ---
 
-## 🤝 Let’s connect
-
-- 💼 LinkedIn: *(add your link here)*
-- 📫 Email: *(add your email here)*
-
----
-
 
 ## 🌍 Open Source & Standards
 
